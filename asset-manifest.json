@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Abrellr/hackernews/static/css/main.ad783688.chunk.css",
-    "main.js": "/Abrellr/hackernews/static/js/main.58fba4a0.chunk.js",
-    "main.js.map": "/Abrellr/hackernews/static/js/main.58fba4a0.chunk.js.map",
-    "runtime-main.js": "/Abrellr/hackernews/static/js/runtime-main.66339ec9.js",
-    "runtime-main.js.map": "/Abrellr/hackernews/static/js/runtime-main.66339ec9.js.map",
-    "static/js/2.258482c9.chunk.js": "/Abrellr/hackernews/static/js/2.258482c9.chunk.js",
-    "static/js/2.258482c9.chunk.js.map": "/Abrellr/hackernews/static/js/2.258482c9.chunk.js.map",
-    "index.html": "/Abrellr/hackernews/index.html",
-    "precache-manifest.93ad9deb81c5df23bc557743c5a3a55d.js": "/Abrellr/hackernews/precache-manifest.93ad9deb81c5df23bc557743c5a3a55d.js",
-    "service-worker.js": "/Abrellr/hackernews/service-worker.js",
-    "static/css/main.ad783688.chunk.css.map": "/Abrellr/hackernews/static/css/main.ad783688.chunk.css.map",
-    "static/js/2.258482c9.chunk.js.LICENSE.txt": "/Abrellr/hackernews/static/js/2.258482c9.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Abrellr/hackernews/static/media/background.fe2fde91.png"
+    "main.css": "/hackernews/static/css/main.6a6063ea.chunk.css",
+    "main.js": "/hackernews/static/js/main.88d637a5.chunk.js",
+    "main.js.map": "/hackernews/static/js/main.88d637a5.chunk.js.map",
+    "runtime-main.js": "/hackernews/static/js/runtime-main.fe423155.js",
+    "runtime-main.js.map": "/hackernews/static/js/runtime-main.fe423155.js.map",
+    "static/js/2.258482c9.chunk.js": "/hackernews/static/js/2.258482c9.chunk.js",
+    "static/js/2.258482c9.chunk.js.map": "/hackernews/static/js/2.258482c9.chunk.js.map",
+    "index.html": "/hackernews/index.html",
+    "precache-manifest.bff900249e24d382a9e4c596e46fb78c.js": "/hackernews/precache-manifest.bff900249e24d382a9e4c596e46fb78c.js",
+    "service-worker.js": "/hackernews/service-worker.js",
+    "static/css/main.6a6063ea.chunk.css.map": "/hackernews/static/css/main.6a6063ea.chunk.css.map",
+    "static/js/2.258482c9.chunk.js.LICENSE.txt": "/hackernews/static/js/2.258482c9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hackernews/static/media/background.fe2fde91.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.66339ec9.js",
+    "static/js/runtime-main.fe423155.js",
     "static/js/2.258482c9.chunk.js",
-    "static/css/main.ad783688.chunk.css",
-    "static/js/main.58fba4a0.chunk.js"
+    "static/css/main.6a6063ea.chunk.css",
+    "static/js/main.88d637a5.chunk.js"
   ]
 }
